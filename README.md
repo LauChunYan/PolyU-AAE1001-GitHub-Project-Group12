@@ -101,3 +101,88 @@ In scenario 3, 2500 passengers need to travel within 7 days from the start to th
  From the chart above, it is found that in scenario 1, the A321neo cannot carry all passengers within the limitation of flights so it is not considered. The best aircraft type in scenario 1 is A330-900neo with a cost of $89965.581; the best aircraft type in scenario 2 is A350-900 with a cost of $47341.510; the best aircraft type in scenario 3 is A330-900neo, with the cost of $88361.976. Note that the number of flights is rounded up to the nearest integer, and the total operation cost is corrected to 3 decimal places where the Excel chart may not show. Please note that the code we have used is shown below. 
 
 ![IMAGE ALT TEXT HERE](https://i.postimg.cc/15Nzmkq6/2023-12-01-130113.png)
+
+## Task2
+
+#### Goal 
+Design a new cost area that can reduce the cost of the route. 
+
+#### Background
+Jet streams are fast flowing, narrow air currents found in the atmosphere. Commercial airlines often use these jet streams to their advantage during flight. When an aircraft flies with the jet stream, it acts like a tailwind, increasing the aircraft's speed. This means the aircraft spends less time in the air, thus reducing the amount of fuel consumed. However, flying against a jet stream can have the opposite effect, acting like a headwind and increasing fuel consumption. In this task, we will aim to try to design flight paths that take maximum advantage of favourable jet streams. 
+
+#### Methodology
+Using Scenario 1 of task 1 as the background, we need to find a way to reduce the cost of flying by 5%. The area of the jet stream must span across the map laterally and span a 5-unit length vertically.
+
+#### Results
+ ![IMAGE ALT TEXT HERE](https://i.postimg.cc/8C792tVt/2023-12-01-153827.png)
+
+ ![IMAGE ALT TEXT HERE](https://i.postimg.cc/h41y3HdK/2023-12-01-153932.png)
+ 
+Thus, we can see that by the jet stream area, A330-900 neo requires $89199.30, compared with task 1, more than 700 costs are saved. A350-900 requires $92631.26 and save more than 800 dollars in cost. Furthermore, A321neo is still not viable for this route. Therefore, A330-900neo is the most suitable aircraft. 
+
+## Task3
+**Name for our aircraft**:Genshin 01
+
+**Pass capacity**:250-450
+
+**Engine count**:2-4
+
+**Detailed calculation:**
+
+C = CF*ΔF*Tbest+CT*Tbest+Cc
+
+CC=2500（4 engine） CC=2000(2 engine）
+
+Base CT=12(per passenger increas 2)
+
+ΔF=20 kg/min
+
+Tbest=82.4680374315538
+
+**If(250 passengers) :**
+
+C=0.76*20*82.4680374315538+（12+2*5）*82.4680374315538+2000
+
+=1253.514169+1814.296823+2000
+
+=5067.810992
+
+**If（300 passengers）：**
+
+C=0.76*20*82.4680374315538+（12+2*6）*82.4690374315538+2000
+
+C=1253.514169+1979.256898+2000
+
+C=5237.771067
+
+**If（350 passengers）:**
+
+C=0.76*20*82.4680374315538+（12+2*7）*82.4690374315538+2500
+
+C=1253.514169+2144.194973+2500
+
+C=5897.709142
+
+**If(400 passengers):**
+
+C=0.76*20*82.4690374315538+(12+2*8)*82.4690374315538+2500
+
+C=1253.514169+2309.133048+2500
+
+C=6062.647217
+
+**If(450 passengers):**
+
+C=0.76*20*82.4690374315538+(12+2*9)*82.4690374315538+2500
+
+C=1253.514169+2309.133048+2500
+
+C=6062.647217
+
+Compare 5 value of C we can find that 250 passengers capacity is the best.
+
+
+
+ 
+
+ 
