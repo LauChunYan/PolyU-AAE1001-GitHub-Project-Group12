@@ -40,9 +40,7 @@ WANG Xuanting
 
 
 ## Introduction
-<p align = "middle">
-  <img src = "R.gif" alt = "animated" width = 600 height = 300/>
-</p>
+
 For a company, profit is very crucial, especially for airlines. Therefore, airlines will optimize the profit by reducing the cost to a minimum and increasing the income to the maximum. In the project, pathfinding is used to find the path with the lowest cost and find the best aircraft by considering time-related, time-unrelated costs and other constraints to reduce the cost while also satisfying all the passengers under certain limitations. In this project, there are 3 tasks dealing with different situations and drafting a new aircraft for optimizing operation for Task 1 situation 1 in Task 2 situation. 
 
 ## Project Video
