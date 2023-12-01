@@ -103,7 +103,6 @@ In scenario 3, 2500 passengers need to travel within 7 days from the start to th
 ![IMAGE ALT TEXT HERE](https://i.postimg.cc/15Nzmkq6/2023-12-01-130113.png)
 
 ## Task2
-
 #### Goal 
 Design a new cost area that can reduce the cost of the route. 
 
