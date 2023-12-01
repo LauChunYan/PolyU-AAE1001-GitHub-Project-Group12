@@ -100,7 +100,7 @@ In scenario 3, 2500 passengers need to travel within 7 days from the start to th
 
 ![IMAGE ALT TEXT HERE](https://i.postimg.cc/15Nzmkq6/2023-12-01-130113.png)
 
-## Task2
+## Task 2
 #### Goal 
 Design a new cost area that can reduce the cost of the route. 
 
@@ -117,7 +117,7 @@ Using Scenario 1 of task 1 as the background, we need to find a way to reduce th
  
 Thus, we can see that by the jet stream area, A330-900 neo requires $89199.30, compared with task 1, more than 700 costs are saved. A350-900 requires $92631.26 and save more than 800 dollars in cost. Furthermore, A321neo is still not viable for this route. Therefore, A330-900neo is the most suitable aircraft. 
 
-## Task3
+## Task 3
 **Name for our aircraft**:Genshin 01
 
 **Pass capacity**:250-450
