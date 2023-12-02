@@ -205,6 +205,13 @@ I have benefited greatly from this program. First, we learned to work as a team.
 
 ## Contacts
 
-23079124d@connect.polyu.hk
+LAU Chun Yan: 23079124d@connect.polyu.hk
 
+FENG Tsz Ching : 23080298d@connect.polyu.hk
+
+WANG Xuanting : 23100379d@connect.Polyu.he
+
+KWOK Shing Yan: 23074335d@connect.polyu.hk
+
+WONG Man Siu: 23076665d@connect.polyu.hk
  
