@@ -203,6 +203,11 @@ C=6062.647217
 
 Compare 5 value of C we can find that 250 passengers capacity is the best.
 
+## Reflections
+
+**Lau Chun Yan (23079124d)**
+
+I have benefited greatly from this program. First, we learned to work as a team. We divided the team into two teams. My team is responsible for programming and completing the GitHub page. Because the division of labor is clear, some people are responsible for programming and others are responsible for checking information, so our efficiency is relatively good. Additionally, I learned how to ask for help and teach myself. We also encountered difficulties in programming. Since we have no programming experience, we don't know how to use python and GitHub. Therefore, we visited TA's opinions and found some useful suggestions. In addition, we learned some programming methods online so that we can cope with the requirements of Task1-3. This programming process makes me feel very accomplished, especially when I haven't completed a task.
 
 
  
