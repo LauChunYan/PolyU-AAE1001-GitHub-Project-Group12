@@ -111,7 +111,14 @@ In scenario 3, 2500 passengers need to travel within 7 days from the start to th
 Design a new cost area that can reduce the cost of the route. 
 
 #### Background
-Jet streams are fast flowing, narrow air currents found in the atmosphere. Commercial airlines often use these jet streams to their advantage during flight. When an aircraft flies with the jet stream, it acts like a tailwind, increasing the aircraft's speed. This means the aircraft spends less time in the air, thus reducing the amount of fuel consumed. However, flying against a jet stream can have the opposite effect, acting like a headwind and increasing fuel consumption. In this task, we will aim to try to design flight paths that take maximum advantage of favourable jet streams. 
+
+![IMAGE ALT TEXT HERE](https://i.postimg.cc/hvqjRqY0/2023-12-02-104035.png)
+
+Jet streams are fast flowing, narrow air currents found in the atmosphere. Commercial airlines often use these jet streams to their advantage during flight. When an aircraft flies with the jet stream, it acts like a tailwind, increasing the aircraft's speed. This means the aircraft spends less time in the air, thus reducing the amount of fuel consumed. However, flying against a jet stream can have the opposite effect, acting like a headwind and increasing fuel consumption. In this task, we will aim to try to design flight paths that take maximum advantage of favourable jet streams.
+
+![IMAGE ALT TEXT HERE](https://i.postimg.cc/yNgYJd4P/2023-12-02-104045.png)
+
+Flights between Tokyo and Los Angeles using the jet stream eastbound and a great circle route westbound. 
 
 #### Methodology
 Using Scenario 1 of task 1 as the background, we need to find a way to reduce the cost of flying by 5%. The area of the jet stream must span across the map laterally and span a 5-unit length vertically.
@@ -120,8 +127,20 @@ Using Scenario 1 of task 1 as the background, we need to find a way to reduce th
  ![IMAGE ALT TEXT HERE](https://i.postimg.cc/8C792tVt/2023-12-01-153827.png)
 
  ![IMAGE ALT TEXT HERE](https://i.postimg.cc/h41y3HdK/2023-12-01-153932.png)
+
+After setting up the jet stream area and finding the total trip time required, we can use the above formula to calculate the total cost we need. 
  
 Thus, we can see that by the jet stream area, A330-900 neo requires $89199.30, compared with task 1, more than 700 costs are saved. A350-900 requires $92631.26 and save more than 800 dollars in cost. Furthermore, A321neo is still not viable for this route. Therefore, A330-900neo is the most suitable aircraft. 
+
+#### Coding Part
+
+![IMAGE ALT TEXT HERE](https://i.postimg.cc/9fZH5qHv/2023-12-02-104500.png)
+
+At this part, we add a new jet stream area. We have managed i is in range -10 till 60, which is probably the whole horizontal range of the map. We have also managed j is in range 14 till 19 since the jet stream's size was only 5 points. 
+
+#### Discussion
+
+Based on the statistics, we can see that the jet stream it not only reduces the flight time, but also saves fuel for the aviation industry. 
 
 ## Task 3
 **Name for our aircraft**:Genshin 01
