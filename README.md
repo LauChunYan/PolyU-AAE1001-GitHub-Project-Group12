@@ -94,7 +94,7 @@ In scenario 3, 2500 passengers need to travel within 7 days from the start to th
 
  The results of calculation of three scenarios are summarized in an excel file, where the chart will be shown below. 
 
- ![IMAGE ALT TEXT HERE](https://i.postimg.cc/KjTXYp6v/2023-12-01-173010.png)
+ ![IMAGE ALT TEXT HERE](https://i.postimg.cc/TwstjR49/2023-12-02-152846.png)
 
  From the chart above, it is found that in scenario 1, the A321neo cannot carry all passengers within the limitation of flights so it is not considered. The best aircraft type in scenario 1 is A330-900neo with a cost of $89965.581; the best aircraft type in scenario 2 is A350-900 with a cost of $47341.510; the best aircraft type in scenario 3 is A330-900neo, with the cost of $88361.976. Note that the number of flights is rounded up to the nearest integer, and the total operation cost is corrected to 3 decimal places where the Excel chart may not show. Please note that the code we have used is shown below. 
 
