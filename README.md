@@ -198,10 +198,25 @@ Compare 5 value of C we can find that 250 passengers capacity is the best.
 
 ## Reflections
 
-**Lau Chun Yan (23079124d)**
+**Lau Chun Yan (23079124D)**
 
 I have benefited greatly from this program. First, we learned to work as a team. We divided the team into two teams. My team is responsible for programming and completing the GitHub page. Because the division of labor is clear, some people are responsible for programming and others are responsible for checking information, so our efficiency is relatively good. Additionally, I learned how to ask for help and teach myself. We also encountered difficulties in programming. Since we have no programming experience, we don't know how to use python and GitHub. Therefore, we visited TA's opinions and found some useful suggestions. In addition, we learned some programming methods online so that we can cope with the requirements of Task1-3. This programming process makes me feel very accomplished, especially when I haven't completed a task.
 
+**Wong Man Siu (23076665D)**
+
+There are a lot of complicated calculations done in aviation, where most of them can only be finished case by case. In this project, I have learnt a basic application of coding on aviation, finding the best aircraft type and best path by programming.  
+
+In this project, we needed to finish the path finding codes, and try to find the aircraft type with the lowest cost in Task 1. With the aid of programs, we started to find the costs of different aircrafts after finding the time travelled on the shortest path. Since the formula of calculating the cost is same, it is very convenient to calculate the cost by the codes, just plug in the numbers and the costs will be calculated for different scenarios. This is how I learnt how to apply programming into aviation when I am finish my project.
+
+**Wang Xuan Ting (23100379D)**
+
+In this group assignment, I was mainly responsible for solving problems using python. In the case of multiple obstacles, it is difficult to find the shortest distance between the starting point and the end point, but Python sets the position of the starting point ，end point ，obstacles and sets the requirements for the shortest distance. Then hit the requirements of display animation, and the image that meets the requirements will appear on the animation, greatly reducing the difficulty of the task. In addition, by setting the area of additional expenses, and the speed, fuel consumption, and passenger capacity of the plane, Python can also help us calculate the flight time and cost. This is a great help in choosing the right aircraft for a journey. Then, taking into account the jet stream's role in assisting the flight of the aircraft during the flight journey, we calculated the best position of the jet stream and obtained the flight time, flight distance and cost consumption in this case through Python. 
+
+Through this group assignment, I deeply experienced the role of Python in computing. I will try to use the skills learned in this homework to solve problems in the future homework about aviation calculation.
+
+**FENG TSZ CHING (23080298D)**
+
+When I first received this assignment, I felt devastated, because I was not familiar with computer operation, let alone learning to write code on my own. I was fortunate to have a great group of people who helped me in areas I was not familiar with, showing me how to install software and run code. Later, we divided them into groups. Some students who were familiar with the code wrote the code, while I was responsible for writing the report. At first, I thought that writing reports did not need to touch the code, but later I found that a detailed report also required me to understand the meaning behind each code, so I also tried to learn the code. I would ask my team members when I met the code I couldn't understand, and they would patiently answer it for me. It was a very special experience for me because I had never been in this field before. In this process of learning, I also learned a lot of new knowledge. If I have the chance in the future, I also hope to study more deeply. 
 
 ## Contacts
 
@@ -214,4 +229,7 @@ WANG Xuanting : 23100379d@connect.Polyu.he
 KWOK Shing Yan: 23074335d@connect.polyu.hk
 
 WONG Man Siu: 23076665d@connect.polyu.hk
- 
+
+KARAARSLAN Ege Hakan: 23104376d@connect.polyu.hk
+
+CHEN Zhiyue: 23080466d@connect.polyu.hk
