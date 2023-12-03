@@ -218,6 +218,14 @@ Through this group assignment, I deeply experienced the role of Python in comput
 
 When I first received this assignment, I felt devastated, because I was not familiar with computer operation, let alone learning to write code on my own. I was fortunate to have a great group of people who helped me in areas I was not familiar with, showing me how to install software and run code. Later, we divided them into groups. Some students who were familiar with the code wrote the code, while I was responsible for writing the report. At first, I thought that writing reports did not need to touch the code, but later I found that a detailed report also required me to understand the meaning behind each code, so I also tried to learn the code. I would ask my team members when I met the code I couldn't understand, and they would patiently answer it for me. It was a very special experience for me because I had never been in this field before. In this process of learning, I also learned a lot of new knowledge. If I have the chance in the future, I also hope to study more deeply. 
 
+**CHEN Zhiyue(23080466D)**
+
+In AAE 1001 group project, I gain a lot, with the advance of technology, the AI has been a trend in the future. It is important to learn the knowledge about the AI In order to adapt to today's society with highly developed science and technology, AI can be applied to various industries. This group project enables me to learn some basic knowledge about AI and data analysis and apply it to the aviation field. In this project, I have learned how to apply genetic algorithm to the production and application of aircraft precision materials in the workshop. He learned how to use computer code to solve mathematical problems and designed his own airplane. As a student of AAE. This is what I should learn to prepare for the long-term development of the field in the future. All in all, I have benefited a lot from this group project.
+
+**KARAARSLAN Ege Hakan(23104376D)**
+
+This project showed the importance of solid communication with my teammates. Throughout the project there were times when I had no idea what was going on but through communication and the explanations my classmates did for me underscored the importance of team communication. Actively listening to my team members allowed me to stay on the same page with my group while introducing amazing new ideas to the project. It also showed me the importance of proper  work distribution. With a good work distribution no one was forced to do something they had no idea to do, people who were interested in coding did coding while the others did other parts which fascinated them. Overall I could improve in following the project day to day while being more punctual and verbal. Next time I'll try to improve on my shortcomings while still getting better at my fort capabilities.
+
 ## Contacts
 
 LAU Chun Yan: 23079124d@connect.polyu.hk
