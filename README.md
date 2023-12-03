@@ -226,13 +226,17 @@ In AAE 1001 group project, I gain a lot, with the advance of technology, the AI 
 
 This project showed the importance of solid communication with my teammates. Throughout the project there were times when I had no idea what was going on but through communication and the explanations my classmates did for me underscored the importance of team communication. Actively listening to my team members allowed me to stay on the same page with my group while introducing amazing new ideas to the project. It also showed me the importance of proper  work distribution. With a good work distribution no one was forced to do something they had no idea to do, people who were interested in coding did coding while the others did other parts which fascinated them. Overall I could improve in following the project day to day while being more punctual and verbal. Next time I'll try to improve on my shortcomings while still getting better at my fort capabilities.
 
+**KWOK Shing Yan(23074335D)**
+
+In this group project, I learned a lot about programming using python. Since we were divided into groups, me and two other groupmates were responsible for the coding part of the project, we did run into a lot of bugs and places where we had no idea how to write the code, especially the task where we had to program the jet stream for the aircraft, with little to no coding skill we couldn’t figure out how to code in the jet stream, then we found out we could format the code like the red and yellow rectangles. Also we at first didn’t understand why the coordinates for the side walls were set 1 point more than the required area, so instead of the coordinate being 60, we had to set it to 61 , until we tried it ourselves and found out that since our starting point is right on the wall, the wall being sharp 60 would block the AI to find the path, that’s why we had to give it 1 more space for it to run. We also learned a lot about the format and spacings when it comes to programming. It was a valuable experience and I hope I will be able to learn more in the future.
+
 ## Contacts
 
 LAU Chun Yan: 23079124d@connect.polyu.hk
 
 FENG Tsz Ching : 23080298d@connect.polyu.hk
 
-WANG Xuanting : 23100379d@connect.Polyu.he
+WANG Xuanting: 23100379d@connect.Polyu.he
 
 KWOK Shing Yan: 23074335d@connect.polyu.hk
 
